@@ -3,7 +3,7 @@
   "description": "Creates and returns a new debounced version of the passed function that will postpone its execution until after wait milliseconds have elapsed since the last time it was invoked",
   "version": "1.2.0",
   "repository": "git://github.com/component/debounce",
-  "main": "index.js",
+  "main": "index.min.js",
   "scripts": {
     "test": "minijasminenode test.js"
   },
